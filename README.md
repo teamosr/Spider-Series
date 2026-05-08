@@ -24,7 +24,8 @@ https://mp.weixin.qq.com/s?__biz=MzIxODg1OTk1MA==&mid=2247484957&idx=1&sn=7fe85c
 
 ## 实战2：漫画爬取下载
 
-
+### 使用网站
+https://mycomic.com/comics/17965
 
 ### 项目总结
 1. 核心思维：CSR (客户端渲染) 的识别与攻克
