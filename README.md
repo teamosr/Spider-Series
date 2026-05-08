@@ -13,7 +13,8 @@
 1. 安装依赖：`pip install -r requirements.txt`
 2. 运行脚本：`python main.py`
 
-### 爬取的小说链接：https://www.23qb.net/book/5912/catalog  （这是一个免费的看小说的网站）
+### 爬取的小说链接：
+https://www.23qb.net/book/5912/catalog  （这是一个免费的看小说的网站）
 
 ### 学习参考
 https://mp.weixin.qq.com/s?__biz=MzIxODg1OTk1MA==&mid=2247484957&idx=1&sn=7fe85c937c0c3147369288be8bb50a4b&chksm=97e556dca092dfca06b4b806a899ef6b6d5c476e42d96ee3414195ec875d2e5e2d7dd60fbf4d&cur_album_id=1350803219538149376&scene=189#wechat_redirect
